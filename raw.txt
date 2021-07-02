@@ -1,0 +1,8 @@
+#EXTM3U,
+
+#EXTINF:-1,Ngoại hạng Canada: Edmonton - Forge (07:00 Hôm nay)
+https://ndcagev-swv-47b850307.thapcam.link/fad602124d9dcac98a8a5910586effe3eac3af61/9001b41e8c4b32b93e3c8dc03913eee4/1625198394/livehls/mtc_may91/playlist.m3u8
+#EXTINF:-1,NBA: Bucks - Hawks (BLV Liu Men) (07:30 Hôm nay)
+https://ndcagev-swv-47b850307.thapcam.link/104435791caf204b84bab9b83b7c3deecddf5452/9001b41e8c4b32b93e3c8dc03913eee4/1625198845/livehls/mtc_may1047SD/playlist.m3u8
+#EXTINF:-1,USL Championship: Colorado Springs - Orange County SC (08:00 Hôm nay)
+https://ndcagev-swv-47b850307.thapcam.link/864e9eefda01c90d41cd00435fbb51bef1a18e5e/9001b41e8c4b32b93e3c8dc03913eee4/1625198920/livehls/mtc_may101/playlist.m3u8
